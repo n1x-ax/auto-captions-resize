@@ -11,8 +11,8 @@ This script helps you prepare datasets for training LoRA (Low-Rank Adaptation) m
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/n1x-ax/auto-captions-resize
+   cd auto-captions-resize
    ```
 
 2. Install the required libraries:
